@@ -1,0 +1,1 @@
+User's inputed phrase/word will be changed from a "s" to a "z".
