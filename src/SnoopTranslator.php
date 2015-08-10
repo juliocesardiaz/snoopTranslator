@@ -3,7 +3,6 @@
 	{
 		function translate($phrase)
 		{
-			
 			$input = explode(" ", $phrase);
 			$output = array();
 			foreach($input as $word) {
